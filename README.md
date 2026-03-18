@@ -32,11 +32,11 @@
 
 ## Current Focus
 
-- ![Vue Laravel Django](https://skillicons.dev/icons?i=vue,laravel,django) Full-stack web development with Vue.js, Laravel, and Django
-- ![Tailwind Bootstrap](https://skillicons.dev/icons?i=tailwind,bootstrap) Strong frontend styling with Tailwind CSS and Bootstrap
-- ![PostgreSQL MySQL](https://skillicons.dev/icons?i=postgres,mysql) Database design and querying with PostgreSQL and MySQL
-- ![Vercel Netlify](https://skillicons.dev/icons?i=vercel,netlify) Deployment workflow on Vercel and Netlify
-- ![Git GitHub](https://skillicons.dev/icons?i=git,github) Version control and collaboration with Git and GitHub
+- ![Vue Laravel Django](https://skillicons.dev/icons?i=vue,laravel,django) **Build complete apps**: connect frontend and backend into full working projects.
+- ![Tailwind Bootstrap](https://skillicons.dev/icons?i=tailwind,bootstrap) **Level up UI skills**: create clean, responsive, and modern interfaces.
+- ![PostgreSQL MySQL](https://skillicons.dev/icons?i=postgres,mysql) **Master database work**: design schemas, write efficient queries, and optimize data flow.
+- ![Vercel Netlify](https://skillicons.dev/icons?i=vercel,netlify) **Deploy with confidence**: ship projects online and manage real deployment workflows.
+- ![Git GitHub](https://skillicons.dev/icons?i=git,github) **Work like a developer team**: use branches, pull requests, and clean commit history.
 
 ## Motto
 
