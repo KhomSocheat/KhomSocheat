@@ -30,14 +30,6 @@
 	I.T.I (Institute of Technology)  
 	Major: Information Technology
 
-## Current Focus
-
-- ![Vue Laravel Django](https://skillicons.dev/icons?i=vue,laravel,django) **Build complete apps**: connect frontend and backend into full working projects.
-- ![Tailwind Bootstrap](https://skillicons.dev/icons?i=tailwind,bootstrap) **Level up UI skills**: create clean, responsive, and modern interfaces.
-- ![PostgreSQL MySQL](https://skillicons.dev/icons?i=postgres,mysql) **Master database work**: design schemas, write efficient queries, and optimize data flow.
-- ![Vercel Netlify](https://skillicons.dev/icons?i=vercel,netlify) **Deploy with confidence**: ship projects online and manage real deployment workflows.
-- ![Git GitHub](https://skillicons.dev/icons?i=git,github) **Work like a developer team**: use branches, pull requests, and clean commit history.
-
 ## Motto
 
 "Small progress every day becomes big results."
